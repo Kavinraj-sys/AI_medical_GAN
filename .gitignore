@@ -1,0 +1,12 @@
+/classified_images/
+/generated_images/
+/images/
+/ISIC_skin_lesion_dataset/
+/preprocessed_data/
+/results/
+/models/checkpoints/
+/models/*.pth
+/classified_images.zip
+/scripts.zip
+**/__pycache__/
+*.py[cod]
