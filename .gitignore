@@ -8,5 +8,6 @@
 /models/*.pth
 /classified_images.zip
 /scripts.zip
+/scripts/*.csv
 **/__pycache__/
 *.py[cod]
